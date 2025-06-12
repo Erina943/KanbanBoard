@@ -21,7 +21,7 @@ A simple and responsive Kanban board built with React and Tailwind CSS. This pro
 
 ```bash
 # Clone the repository
-git clone https://github.com/erina943/react-kanban-board.git
+git clone https://github.com/Erina943/KanbanBoard.git
 
 # Navigate into the project
 cd react-kanban-board
